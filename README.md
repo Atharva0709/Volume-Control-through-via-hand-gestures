@@ -1,4 +1,4 @@
-# Python_first_project
+# Volume Control via hand gestures
 
 A Python project using OpenCV and MediaPipe for real-time hand tracking and gesture-based system volume control.
 
